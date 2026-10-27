@@ -155,7 +155,7 @@ nav a:hover {
   min-height: 600px;
   height: auto;
   background-color: #1a4d6d;
-  background-image: url("Images/hero-banner.jpg.jpg");
+  background-image: url("hero-banner.jpg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -317,7 +317,7 @@ section p,
 }
 
 .about-photo {
-  background-image: url("Images/Gelukkie, Paternoster.jpg");
+  background-image: url("Gelukkie, Paternoster.jpg");
 }
 
 /* Meet David Section */
